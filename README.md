@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+1. Run "npm install"
+2. To run backend, "npm run start"
